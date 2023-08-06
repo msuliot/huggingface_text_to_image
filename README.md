@@ -26,7 +26,7 @@ MODEL_NAME = 'runwayml/stable-diffusion-v1-5'
 PIPELINE_TASK = "text-to-image"
 ```
 
-# Instructions:
+# Instructions: 
 
 There is example of how to use the Hugging Face Hub.
 
@@ -37,7 +37,7 @@ python3 api.py
 
 ## Run the Pipeline script
 ```bash
-python3 pipeline.py
+python3 pipeline.py   # Must have CUDA installed
 ```
 
 ## Hugging Face Hub API
