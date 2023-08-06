@@ -35,6 +35,11 @@ There is example of how to use the Hugging Face Hub.
 python3 api.py
 ```
 
+## Run the Pipeline script
+```bash
+python3 pipeline.py
+```
+
 ## Hugging Face Hub API
 https://huggingface.co/runwayml/stable-diffusion-v1-5
 - modelId: runwayml/stable-diffusion-v1-5
