@@ -2,6 +2,9 @@
 
 This repository is a simple example of how to use the Hugging Face Hub to convert an text to image.
 
+## YouTube Video Tutorial for this GitHub Repository
+[Hugging Face - Text to Image](https://youtu.be/RxRD818Baos)
+
 ## The basics
 
 1. Must have Python3.
